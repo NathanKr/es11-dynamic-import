@@ -5,4 +5,4 @@ Expreiment with es11 feature - dynamic import
 <ul>
 <li>npm i </li>
 <li>npm run dev </li>
-</ul>>
+</ul>
